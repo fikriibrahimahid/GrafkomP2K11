@@ -10,7 +10,9 @@ Goals: menemukan semua barang yang ada di list dan perbanyak total skor diakhir 
 
 ## Role
 Game Artist : Ihsan
+
 Game Designer : Ihsan
+
 Game Programmer : Zuhdi & Ahid
 
 ## Team
